@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" class="templates:surround?with=templates/page.html&amp;at=content">
+    <script type="text/javascript">
+        window.onload = function () {
+        var url = document.URL;
+        var temp = url.split("?");
+        var datoteka = temp[1].substring((temp[1].lastIndexOf("="))+1);
+        document.getElementById("datoteka").value = datoteka;
+        };
+    </script>
+    <h2>Upis novog ra?una</h2>
+    <form name="input" action="post_test.xq" method="post">
+        <table>
+            <tr>
+                <td>Oznaka:</td>
+                <td>
+                    <input type="text" name="oznaka"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Naziv: </td>
+                <td>
+                    <input type="text" name="naziv"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Email: </td>
+                <td>
+                    <input type="text" name="email"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Fax: </td>
+                <td>
+                    <input type="text" name="fax"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Tel: </td>
+                <td>
+                    <input type="text" name="tel"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Naziv platitelja: </td>
+                <td>
+                    <input type="text" name="nazivPlatitelja"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Email platitelja:: </td>
+                <td>
+                    <input type="text" name="emailPlatitelja"/>
+                </td>
+            </tr>
+            <tr>
+                <td>faxPlatitelja: </td>
+                <td>
+                    <input type="text" name="faxPlatitelja"/>
+                </td>
+            </tr>
+            <tr>
+                <td>telPlatitelja: </td>
+                <td>
+                    <input type="text" name="telPlatitelja"/>
+                </td>
+            </tr>
+            <tr>
+                <td>datumIzdavanja: </td>
+                <td>
+                    <input type="text" name="datumIzdavanja"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Oznaka proizvoda: </td>
+                <td>
+                    <input type="text" name="oznakaProizvoda"/>
+                </td>
+            </tr>
+            <tr>
+                <td>GTIN: </td>
+                <td>
+                    <input type="text" name="gtin"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Naziv proizvoda: </td>
+                <td>
+                    <input type="text" name="nazivProizvoda"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Iznos: </td>
+                <td>
+                    <input type="text" name="iznos"/>
+                    <input type="text" id="datoteka" name="datoteka" value="" style="visibility:hidden;"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Po?alji"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <iframe style="width:1px;height:1px;border:none;" name="output"/>
+</div>

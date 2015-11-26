@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:element name="narudzba">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="oznaka" minOccurs="1" maxOccurs="1" type="xs:positiveInteger"/>
+                <xs:element name="oznakaPosiljatelja" minOccurs="1" maxOccurs="1" type="xs:positiveInteger"/>
+                <xs:element name="nazivPosiljatelja" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                <xs:element name="emailPosiljatelja" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                <xs:element name="faxPosiljatelja" type="xs:string"/>
+                <xs:element name="telPosilajtelja" type="xs:string"/>
+                <xs:element name="oznakaPrimatelja" minOccurs="1" maxOccurs="1" type="xs:positiveInteger"/>
+                <xs:element name="nazivPrimatelja" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                <xs:element name="emailPrimatelja" type="xs:string"/>
+                <xs:element name="faxPrimatelja" type="xs:string"/>
+                <xs:element name="telPrimatelja" type="xs:string"/>
+                <xs:element name="datumIzdavanja" type="xs:string"/>
+                <xs:element name="items" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="oznaka" minOccurs="1" maxOccurs="1" type="xs:positiveInteger"/>
+                            <xs:element name="oznakaTransakcije" minOccurs="1" maxOccurs="1" type="xs:positiveInteger"/>
+                            <xs:element name="kolicina" minOccurs="1" maxOccurs="1" type="xs:integer"/>
+                            <xs:element name="iznos" minOccurs="1" maxOccurs="1" type="xs:integer"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

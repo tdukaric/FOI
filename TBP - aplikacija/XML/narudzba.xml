@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba>
+    <oznaka>1</oznaka>
+    <oznakaPosiljatelja/>
+    <nazivPosiljatelja>Ja</nazivPosiljatelja>
+    <emailPosiljatelja>email</emailPosiljatelja>
+    <faxPosiljatelja>fax</faxPosiljatelja>
+    <telPosiljatelja>tel</telPosiljatelja>
+    <oznakaPrimatelja/>
+    <nazivPrimatelja>netko</nazivPrimatelja>
+    <emailPrimatelja/>
+    <faxPrimatelja>fas</faxPrimatelja>
+    <telPrimatelja/>
+    <datumIzdavanja>10.01.2013.</datumIzdavanja>
+    <items>
+        <item>
+            <oznaka>1</oznaka>
+            <oznakaTransakcije>12345678901234</oznakaTransakcije>
+            <kolicina>5</kolicina>
+            <iznos>2</iznos>
+        </item>
+    </items>
+</narudzba>

@@ -1,0 +1,1230 @@
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Background.png
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Studentus.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Studentus.xap
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\App.g.i.cs
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\Studentus.dll
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\Studentus.pdb
+C:\Users\dux\Documents\Visual Studio 2010\Projects\Studentus\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Background.png
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Studentus.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Studentus.xap
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\App.g.i.cs
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\Studentus.dll
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\Studentus.pdb
+C:\Users\dux\Desktop\Studentus\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Background.png
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Studentus.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Studentus.xap
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\App.g.i.cs
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\Studentus.dll
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\Studentus.pdb
+C:\Users\dux\Desktop\Studentus - luka\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus - luka 13-45 - Copy\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Background.png
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Studentus.xap
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\App.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\Luka\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\Studentus - Luka, 13-45 - Copy\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Background.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Studentus.xap
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\App.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka,ivan 22.12.2012\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Background.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Studentus.xap
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\App.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 14 50\Studentus\obj\Debug\XapCacheFile.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ApplicationIcon.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Background.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Studentus.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Studentus.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\AppManifest.xaml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Studentus.xap
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\App.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Calendar.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\MainPage.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Subjects.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Studentus.g.resources
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Studentus.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Studentus.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Background.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Studentus.xap
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\App.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 22 12 2012 18 35\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Background.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Studentus.xap
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\App.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus - Luka, Ivan 23 12 2012 5 25\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - Luka, Ivan 23 12 2012 11 17\Studentus\obj\Debug\NewTask.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\ApplicationIcon.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Background.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Studentus.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Studentus.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\AppManifest.xaml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Studentus.xap
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\App.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\Calendar.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\MainPage.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\NewTask.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\Subjects.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\Studentus.g.resources
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\Studentus.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\Studentus.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 14 02\Studentus\obj\Debug\XapCacheFile.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ApplicationIcon.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Background.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Studentus.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Studentus.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\AppManifest.xaml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Studentus.xap
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\App.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Calendar.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\MainPage.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewTask.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Subjects.g.i.cs
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Studentus.g.resources
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Studentus.dll
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Studentus.pdb
+C:\_sve ostalo\Dropbox\FOI - diplomski studij\Analiza i razvoj programa\Projekt, Iwe, Luka, Dux\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 15 00\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.15\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 16.35\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\studentus\Studentus - Luka, Ivan 23 12 2012 17.07\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\WPControls.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\CalendarItem.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\New folder\Studentus\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\CalendarItem.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\WPControls.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\obj\Debug\ViewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\ivan\Desktop\Studentus - Luka 25 01 2012 0 16\Studentus\Bin\Debug\Images\appbar.edit.rest.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.edit.rest.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\WPControls.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\CalendarItem.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\ViewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\ivan\Desktop\Studentus\Studentus\obj\Debug\popup_edit_delete.g.i.cs
+C:\Users\ivan\Desktop\Studentus\Studentus\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Background.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.edit.rest.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Studentus.xap
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\WPControls.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\App.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\CalendarItem.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\popup_edit_delete.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\ViewTeacher.g.i.cs
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\Studentus.dll
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\Studentus.pdb
+C:\Users\ivan\Desktop\Studentus - ivan (doraden popup)\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Background.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.edit.rest.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Studentus.xap
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\IsolatedStorageExplorer.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\WPControls.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\App.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\Calendar.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\CalendarItem.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\MainPage.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\NewSemester.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\NewSubject.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\NewTask.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\NewTeacher.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\popup_edit_delete.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\Subjects.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\ViewTeacher.g.i.cs
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\Studentus.dll
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\Studentus.pdb
+C:\Users\Luka\Desktop\Studentus\Studentus\obj\Debug\XapCacheFile.xml
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\ApplicationIcon.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Background.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.calendar.14.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.edit.rest.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Images\appbar.settings.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Studentus.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Studentus.pdb
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\AppManifest.xaml
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Studentus.xap
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\WPControls.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\App.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\Calendar.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\CalendarItem.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\MainPage.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\NewSemester.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\NewSubject.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\NewTask.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\NewTeacher.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\popup_edit_delete.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\Subjects.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\ViewTeacher.g.cs
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\Studentus.g.resources
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\Studentus.dll
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\Studentus.pdb
+C:\Users\dux\Dropbox\Projekti - Luka, Dux\Studentus\Studentus\obj\Debug\XapCacheFile.xml

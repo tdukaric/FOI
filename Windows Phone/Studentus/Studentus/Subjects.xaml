@@ -1,0 +1,157 @@
+﻿
+    <phone:PhoneApplicationPage 
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+	xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions"
+	mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+	x:Class="Studentus.Subjects"
+    d:DataContext=""
+	FontFamily="{StaticResource PhoneFontFamilyNormal}"
+	FontSize="{StaticResource PhoneFontSizeNormal}"
+	Foreground="{StaticResource PhoneForegroundBrush}"
+	Orientation="Portrait"
+	shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+        <DataTemplate x:Key="ToDoListBoxItemTemplate">
+
+            <Grid HorizontalAlignment="Stretch" Width="420">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="100" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock 
+                    Text="{Binding NazivSemestra}" 
+                    FontSize="{StaticResource PhoneFontSizeLarge}"
+                    Grid.Column="1" Grid.ColumnSpan="2" 
+                    VerticalAlignment="Center"
+                    Name="semesterBlock"
+                    Tap="TextBlock_Tap"/>
+
+                <Button
+                    Grid.Column="3"
+                    x:Name="deleteSemesterButton"
+                    BorderThickness="0"  
+                    VerticalAlignment="Center"
+                    Click="deleteSemesterButton_Click">
+
+                    <Image
+                     VerticalAlignment="Center"
+                    Source="/Images/appbar.delete.rest.png"
+                    Height="75"
+                    Width="75"/>
+                </Button>
+            </Grid>
+        </DataTemplate>
+        <shell:ApplicationBar x:Key="AppBar1" IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.delete.rest.png" Text="Button 1"  />
+            
+        </shell:ApplicationBar>
+
+        <shell:ApplicationBar x:Key="AppBar2" IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Toolkit.Content/ApplicationBar.Check.png" Text="Button 1"  />
+            <shell:ApplicationBarIconButton IconUri="/Toolkit.Content/ApplicationBar.Add.png" Text="Button 2" />
+            
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+	<Grid x:Name="LayoutRoot" Background="Transparent">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+		
+		<!--TitlePanel contains the name of the application and page title-->
+		<StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+			<TextBlock x:Name="ApplicationTitle" Text="STUDENTUS" Style="{StaticResource PhoneTextNormalStyle}"/>
+		</StackPanel>
+
+		<Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <controls:Pivot Margin="0,-24,0,100"  x:Name="settings" SelectionChanged="OnChangePivot">
+				<controls:PivotItem x:Name="subPivot" Header="Subjects" Margin="12,0,12,0" FontSize="15">
+                    
+                    <ListBox ItemsSource="{Binding AllSubjectItems}">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid HorizontalAlignment="Stretch" Width="420">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="auto" />
+                                        
+                                    </Grid.ColumnDefinitions>
+
+                                    <TextBlock 
+                                        Text="{Binding NazivPredmeta}" 
+                                        FontSize="{StaticResource PhoneFontSizeLarge}"
+                                        Grid.Column="1" Grid.ColumnSpan="2" 
+                                        VerticalAlignment="Center"
+                                        Hold="popupSubjectButton_Click"
+                                        />
+                                       
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </controls:PivotItem>
+				<controls:PivotItem Header="Teachers" Margin="12,0,12,0" FontSize="15">
+                    <ListBox ItemsSource="{Binding AllTeacherItems}" x:Name="TeacherItemsListBox">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid HorizontalAlignment="Left" Width="450">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="auto" />
+                                        <ColumnDefinition Width="*" />
+
+                                    </Grid.ColumnDefinitions>
+
+                                    <TextBlock 
+                                        Text="{Binding ImeNastavnika}" 
+                                        FontSize="{StaticResource PhoneFontSizeLarge}"
+                                        Grid.Column="1"
+                                        Tap="viewTeachertButton_Click"
+                                        Hold="popupTeachertButton_Click"/>
+                                    <TextBlock 
+                                        Text="{Binding PrezimeNastavnika}" 
+                                        FontSize="{StaticResource PhoneFontSizeLarge}"
+                                        Grid.Column="2"  
+                                        Margin="10,0"
+                                        Tap="viewTeachertButton_Click"
+                                        Hold="popupTeachertButton_Click"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </controls:PivotItem>
+				<controls:PivotItem Header="Semesters" Margin="12,0,12,0" FontSize="15">
+                    <Grid>
+                        <ListBox
+							ItemsSource="{Binding AllSemesterItems}"
+							x:Name="SemesterItemsListBox"  
+							ItemTemplate="{StaticResource ToDoListBoxItemTemplate}" VerticalAlignment="Top"
+                        />
+                    </Grid>
+                    	
+				</controls:PivotItem>
+			</controls:Pivot>
+		</Grid>
+	</Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.calendar.14.png" Text="Today" Click="Today_click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.calendar.png" Text="Calendar" Click="Calendar_click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.settings.png" Text="Subjects" Click="Subjects_click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
+    

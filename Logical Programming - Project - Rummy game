@@ -1,0 +1,476 @@
+oznaka(p).
+oznaka(h).
+oznaka(k).
+oznaka(t).
+
+broj(2, 2).
+broj(3, 3).
+broj(4, 4).
+broj(5, 5).
+broj(6, 6).
+broj(7, 7).
+broj(8, 8).
+broj(9, 9).
+broj(10, 10).
+broj(j, 10).
+broj(q, 10).
+broj(k, 10).
+broj(a, 11).
+
+redoslijed([a, 2, 3, 4, 5, 6, 7, 8, 9, 10, j, q, k, a]).
+
+:- dynamic spils/1.
+:- dynamic ruka_1/1.
+:- dynamic ruka_2/1.
+:- dynamic stol/1.
+
+%Predikat za kreiranje karata
+k(X, Y, Z) :-
+     oznaka(X),
+     broj(Y, Z).
+
+%Predikat za kreiranje špila karata
+spil( L) :- bagof(k(X, Y, Z), k(X, Y, Z), L).
+
+%Predikat za spajanje dva špila u jedno
+spilovi(X) :-
+       spil(L1),
+       spil(L2),
+       append(L1, L2, X).
+
+%Predikat za mješanje karata u špilovima
+mjesaj(X) :-
+       spilovi(S),
+       random_permutation(S, X).
+
+%Predikat "isti_znak" provjerava jesu li karte u list "K" istog znaka
+% i jesu li poredani od najmanje do najveæe karte. primjer:
+% [k(h, 5, 5), k(h, 6, 6), k(h, 7, 7)]
+isti_znak(K) :-
+       K = [E|F],
+       F = [G|H],
+       H = [Y],
+       E = k(X, A1, _),
+       G = k(X, A2, _),
+       Y = k(X, A3, _),
+       redoslijed(T),
+       nth0(T1, T, A1),
+       nth0(T2, T, A2),
+       nth0(T3, T, A3),
+       T22 is T2 - 1,
+       T33 is T3 - 2,
+       T1 == T22,
+       T22 == T33.
+
+%Predikat "isti_broj" provjerava jesu li karte u listi "K" istog broja
+% te razlièite oznake.
+isti_broj(K) :-
+       K = [E|F],
+       F = [G|H],
+       H = [Y],
+       E = k(X1, A, _),
+       G = k(X2, A, _),
+       Y = k(X3, A, _),
+       X1 \= X2,
+       X2 \= X3,
+       X3 \= X1.
+
+%Predikat "dodaj_na_kraj" dodaje kartu "G" na kraj skupine karata "K".
+%Prvo uzima zadnje dvije karte sa skupine, stvara novu listu "E" sa zadnje
+%dvije karte i dodaje novu kartu kao treæu kartu, te tu listu šalje na provjeru
+%predikatima "isti_znak" ili "isti_broj". Varijabla "F" oznaèava finalnu listu
+dodaj_na_kraj(K, G, F) :-
+       length(K, Y),
+       nth1(Y, K, E1),
+       Y1 is Y-1,
+       nth1(Y1, K, E2),
+       E = [E2, E1, G],
+       pravilo(E),
+       append(K, [G], F).
+
+%Predikat "dodaj_na_pocetak" radi istu stvar kao i predikat "dodaj_na_kraj",
+%jedino što dodaje karte na poèetak liste, a ne na kraj
+dodaj_na_pocetak(K, G, F) :-
+       nth1(1, K, E1),
+       nth1(2, K, E2),
+       E = [G, E1, E2],
+       pravilo(E),
+       append([G], K, F).
+
+%Predikat "dodaj" poziva predikate "dodaj_na_pocetak" ili "dodaj_na_kraj".
+dodaj(K, G, F) :-
+       dodaj_na_kraj(K, G, F);
+       dodaj_na_pocetak(K, G, F).
+
+%Deal predikat uzima Numcards karata s vrha Decka te ih vraæa u listu H.
+%Ostatak decka vraæa u listu Deck1.
+deal(Deck, Numcards, H, Deck1) :-
+       length(H, Numcards),
+       append(H, Deck1, Deck).
+
+%uzmi_kartu(Z) :-
+%     spils(Y),
+%     random:random_member(Z, Y),
+%     lists:delete(Y, Z, K),
+%     retract(spils([X|_])),
+%     assert(spils(K)).
+
+%"uzmi_kartu" uzima prvu kartu iz špila te ju dodaje na listu "X".
+uzmi_kartu(X, F) :-
+       spils(Y), nth1(1, Y, Z),
+       lists:delete(Y, Z, K),
+       retract(spils(_)),
+       assert(spils(K)),
+       append(X, [Z], F).
+
+%Predukat "odaberi_kartu" služi za odabir karte iz navedene liste "H". Odabrana
+%karta se vraæa u varijablu "X".
+odaberi_kartu(H, X) :-
+       nl, nl,
+       msort(H, HS),
+       write('Karte: '),
+       write(HS),
+       nl, nl,
+       write('Odaberi kartu:'),
+       read(X),
+       (
+         not(member(X, H))->
+         (
+            nl,
+            write('Odabrana karta ne postoji!'),
+            odaberi_kartu(H, X)
+         );
+       true).
+
+%ispisS je pomoæni predikat istoimenom predikatu
+ispisS([T], N) :-
+     nl,
+     write(N),
+     write(': '),
+     write(T).
+
+%Predikat "ispisS" koristi se za ispis karata koje su položene na stol.
+ispisS([H|T], N) :-
+     N1 is N + 1,
+     ispisS(T, N1),
+     nl,
+     write(N),
+     write(': '),
+     write(H).
+
+%"ispisi_stol" predikat služi za pokretanje ispisa karata koje su položene
+%na stol. Uèitava sve karte, sprema ih u varijablu X, te ih ispisuje ukoliko
+%postoje karte koje su ispisane na stol
+ispisi_stol :-
+     findall(S, stol(S), X),
+     stol(_) ->
+       ispisS(X, 1);
+       true.
+
+%predikat "pravilo" koristi se za provjeru je li lista "X" prolazi jedno
+%od dva navedena pravila.
+pravilo(X) :-
+       isti_znak(X);
+       isti_broj(X).
+
+%predikat "bodovi" koristi se za izraèun bodova kod igraèa
+bodovi([T], R) :- T = k(_, _, B), R is B.
+bodovi([H|T], R) :- bodovi(T, R1), H = k(_, _, B), R is R1 + B.
+
+
+%Pokretanje poteza prvog igraèa
+igrac_1 :-
+       ruka_1(X2),
+       uzmi_kartu(X2, X22),
+       retract(ruka_1(_)),
+       assert(ruka_1(X22)),
+       opcije_1.
+
+%Pokretanje poteza drugog igraèa
+igrac_2 :-
+       ruka_2(X2),
+       uzmi_kartu(X2, X22),
+       retract(ruka_2(_)),
+       assert(ruka_2(X22)),
+       opcije_2.
+
+%Ispis opcija prvog igraèa
+opcije_1 :-
+       ruka_1(R),
+       length(R, L),
+       %trace,
+       (
+         L == 1 -> (
+           ruka_2(T),
+           bodovi(T, B),
+           retract(ruka_2(_)),
+           retract(ruka_1(_)),
+           retract(stol(_)),
+           retract(spils(_)),
+           write('Igrac 1 je pobijedio!'),
+           nl,
+           write('Igrac 2 ima '),
+           write(B),
+           write(' bodova.'),
+           !
+
+         );
+         (
+           %notrace,
+           ispisi_opcije(R, 1),
+           read(X),
+           igraj_1(X))
+         ).
+
+%Ispis opcija drugog igraèa
+opcije_2 :-
+       ruka_2(R),
+       length(R, L),
+       (L == 1 ->
+       (
+         ruka_1(T),
+         bodovi(T, B),
+         write('Igrac 2 je pobijedio!'),
+         nl,
+         write('Igrac 1 ima '),
+         write(B),
+         write(' bodova.'),
+         retract(ruka_2(_)),
+         retract(ruka_1(_)),
+         retract(stol(_)),
+         retract(spils(_)),
+         !
+
+       );
+       (
+         ispisi_opcije(R, 2),
+         read(X),
+         igraj_2(X))
+       ).
+
+%Ispis opcija koje se nude korisniku
+ispisi_opcije(RH, X) :-
+       msort(RH, R),
+       nl, nl, nl, nl, nl, nl,
+       write('Igrac '),
+       write(X),
+       write(': '),
+       nl, nl,
+       write('Vase karte:'),
+       write(R),
+       nl,
+       write('Stol:'),
+       ispisi_stol,
+       nl,
+       nl,
+       write('Odaberite opciju:'),
+       nl,
+       writeln('1. Odbaci kartu i nastavi igru'),
+       writeln('2. Spusti set od tri karte'),
+       writeln('3. Dodaj kartu setu').
+
+%Pokretanje moda igre ovisno o varijabli "X"
+igraj_1(X) :-
+       (
+         X == 1 -> nastavi_1;
+         X == 2 -> spusti_1;
+         X == 3 -> dodaj_1;
+         writeln('Navedena opcija ne postoji!')
+       ),
+       opcije_1.
+
+%Pokretanje moda igre ovisno o varijabli "X"
+igraj_2(X) :-
+       (
+         X == 1 -> nastavi_2;
+         X == 2 -> spusti_2;
+         X == 3 -> dodaj_2;
+         writeln('Navedena opcija ne postoji!')
+       ),
+       opcije_2.
+
+%Predikat "nastavi_1" koristi se za odabir karte koja æe se odbaciti iz
+%ruke, te se nastavlja s igrom, tj. nakon odbacivanja karte drugi igraè
+%poèinje s igrom.
+nastavi_1 :-
+       ruka_1(H),
+       nl, nl,
+       write('Karte:'),
+       msort(H, S),
+       write(S),
+       nl, nl,
+       write('Odaberi kartu koju želiš maknuti:'),
+       read(X),
+       (
+         (
+           member(X, H),
+           lists:delete(H, X, H2),
+           retract(ruka_1(_)),
+           assert(ruka_1(H2)),
+           igrac_2
+         );
+       (
+         nl,
+         write('Odabrana karta ne postoji!'),
+         nastavi_1)
+       ).
+
+%Predikat "nastavi_2" koristi se za odabir karte koja æe se odbaciti iz
+%ruke, te se nastavlja s igrom, tj. nakon odbacivanja karte prvi igraè
+%poèinje s igrom.
+nastavi_2 :-
+       ruka_2(H),
+       msort(H, S),
+       nl, nl,
+       write('Karte:'),
+       write(S),
+       nl, nl,
+       write('Odaberi kartu koju želiš maknuti:'),
+       read(X),
+       (
+         (
+           member(X, H),
+           lists:delete(H, X, H2),
+           retract(ruka_2(_)),
+           assert(ruka_2(H2)),
+           igrac_1
+         );
+         (
+         nl,
+         write('Odabrana karta ne postoji!'),
+         nastavi_2
+         )
+       ).
+
+%Predikat "spusti_1" koristi se za odabiranje karata koje æe se spustiti
+%na stol kao set karata od 3 karte
+spusti_1 :-
+       ruka_1(H),
+       odaberi_kartu(H, X1),
+       lists:delete(H, X1, H1),
+       odaberi_kartu(H1, X2),
+       lists:delete(H1, X2, H2),
+       odaberi_kartu(H2, X3),
+       lists:delete(H2, X3, H3),
+       X = [X1, X2, X3],
+       (
+         pravilo(X) ->
+         (
+           retract(ruka_1(_)),
+           assert(ruka_1(H3)),
+           assert(stol(X)),
+           opcije_1
+         );
+         (
+           nl, nl,
+           write('Nemožete spustiti navedene karte!'),
+           opcije_1
+         )
+       ).
+
+%Predikat "spusti_2" koristi se za odabiranje karata koje æe se spustiti
+%na stol kao set karata od 3 karte
+spusti_2 :-
+       ruka_2(H),
+       odaberi_kartu(H, X1),
+       lists:delete(H, X1, H1),
+       odaberi_kartu(H1, X2),
+       lists:delete(H1, X2, H2),
+       odaberi_kartu(H2, X3),
+       lists:delete(H2, X3, H3),
+       X = [X1, X2, X3],
+       (
+         pravilo(X) ->
+         (
+           retract(ruka_2(_)),
+           assert(ruka_2(H3)),
+           assert(stol(X)),
+           opcije_2
+         );
+         (
+           nl, nl,
+           write('Nemožete spustiti navedene karte!'),
+           opcije_2
+         )
+       ).
+
+%"dodaj_kartu" koristi se za dodavanje karte na veæ prethodno napravljen
+%niz karata koji se nalazi na stolu
+dodaj_kartu(H, H1) :-
+       findall(T, stol(T), S),
+       nl, nl,
+       write('Ruka: '),
+       write(H),
+       nl, nl,
+       write('Stol: '),
+       ispisi_stol,
+       nl, nl,
+       write('Brojèano odaberite na koju grupu karata želite dodati kartu: '),
+       read(X),
+       nth1(X, S, S2),
+       nl, nl, nl,
+       write('Odabrana grupa karata: '),
+       write(S2),
+       nl, nl,
+       write('Ruka:'),
+       write(H),
+       nl, nl,
+       write('Koju kartu želite dodati: '),
+       read(K),
+       dodaj(S2, K, F),
+       retract(stol(S2)),
+       assert(stol(F)),
+       lists:delete(H, K, H1).
+
+%Predikat "dodaj_1" koristi prvi igraè kako bi dodao kartu na poèetak odnosno
+%na kraj prethodno postavljenog niza na stolu
+dodaj_1 :-
+       ruka_1(H),
+       msort(H, HS),
+       (
+         dodaj_kartu(HS, H1) ->
+         (
+           retract(ruka_1(_)),
+           assert(ruka_1(H1)),
+           opcije_1
+         );
+         (
+           write('Neuspješno dodavanje karte'),
+           opcije_1
+         )
+       ).
+
+%Predikat "dodaj_2" koristi drugi igraè kako bi dodao kartu na poèetak odnosno
+%na kraj prethodno postavljenog niza na stolu
+dodaj_2 :-
+       ruka_2(H),
+       msort(H, HS),
+       (
+         dodaj_kartu(HS, H1) ->
+         (
+           retract(ruka_2(_)),
+           assert(ruka_2(H1)),
+           opcije_2
+         );
+         (
+           write('Neuspješno dodavanje karte'),
+           opcije_2
+         )
+       ).
+
+
+
+%Predikat za pokretanje igre koji instancira špilove, stol te dijeli 14 karata
+%svakom igraèu.
+nova_igra :-
+       mjesaj(X),
+       %E = [k(t, 8, 8), k(t, 9, 9), k(t, 10, 10)],
+       E = [k(t, 8, 8), k(t, 9, 9), k(t, 10, 10), k(t, 4, 4), k(k, 4, 4), k(h, 4, 4), k(p, 4, 4)],
+       deal(X, 14, X1, R),
+       %assert(ruka_1(X1)),
+       assert(ruka_1(E)),
+       deal(R, 14, X2, R2),
+       %assert(ruka_2(X2)),
+       assert(ruka_2(E)),
+       assert(spils(R2)),
+       igrac_1.
